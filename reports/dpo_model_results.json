@@ -1,0 +1,42 @@
+[
+    {
+        "question": "How can I cancel my NovaCart order?",
+        "dpo_answer": "Customers who receive the wrong product should report it through the Help Center with the order number and product details."
+    },
+    {
+        "question": "How many days do I have to return a product?",
+        "dpo_answer": "Returns can be initiated within 30 days of delivery. Returns are processed within 4 to 7 business days and returned via the original method."
+    },
+    {
+        "question": "How long does NovaCart take to process a refund?",
+        "dpo_answer": "Refunds generally begin within 5 to 7 business days after the transaction is complete and the item is available for delivery."
+    },
+    {
+        "question": "What should I do if my product arrives damaged?",
+        "dpo_answer": "Damaged products should be reported within 48 hours of delivery with the order number and package details."
+    },
+    {
+        "question": "How can I track my order?",
+        "dpo_answer": "Customers should use the order number and transaction ID provided in the confirmation email to contact NovaCart support."
+    },
+    {
+        "question": "How long does standard delivery usually take?",
+        "dpo_answer": "Standard NovaCart delivery generally takes 3 to 7 business days after shipment. Delivery time may vary depending on location and availability of stock."
+    },
+    {
+        "question": "What should I do if my payment fails?",
+        "dpo_answer": "Customers who see a failure message should try another supported payment method or contact NovaCart support with their order number and transaction ID for assistance."
+    },
+    {
+        "question": "What should I do if I was charged twice?",
+        "dpo_answer": "Customers who see an unexpected charge can contact NovaCart support with their order number and transaction ID for investigation."
+    },
+    {
+        "question": "Can I change my delivery address after placing an order?",
+        "dpo_answer": "Once the order ships, the customer may change their delivery address before shipment begins. After shipment has begun, the address generally cannot be changed."
+    },
+    {
+        "question": "What should I do if an item is missing from my package?",
+        "dpo_answer": "Missing items should be reported within 48 hours of delivery with the order number and package details."
+    }
+]

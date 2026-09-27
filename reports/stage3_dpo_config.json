@@ -1,0 +1,14 @@
+{
+    "starting_model": "Devu758/novacart-qwen-sft",
+    "training_stage": "DPO Preference Alignment",
+    "dataset_size": 50,
+    "epochs": 2,
+    "per_device_batch_size": 1,
+    "gradient_accumulation_steps": 4,
+    "effective_batch_size": 4,
+    "learning_rate": 5e-06,
+    "beta": 0.1,
+    "max_length": 1024,
+    "max_prompt_length": 512,
+    "quantization": "4-bit"
+}

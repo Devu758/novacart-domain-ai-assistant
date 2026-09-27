@@ -1,0 +1,14 @@
+{
+    "starting_model": "Devu758/novacart-qwen-stage1-domain",
+    "training_stage": "Instruction Fine-Tuning / SFT",
+    "dataset_size": 120,
+    "epochs": 2,
+    "per_device_batch_size": 2,
+    "gradient_accumulation_steps": 4,
+    "effective_batch_size": 8,
+    "learning_rate": 0.0002,
+    "max_seq_length": 1024,
+    "quantization": "4-bit",
+    "lora_rank": 16,
+    "lora_alpha": 16
+}

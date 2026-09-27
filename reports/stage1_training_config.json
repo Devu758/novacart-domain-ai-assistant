@@ -1,0 +1,16 @@
+{
+    "base_model": "unsloth/Qwen2.5-1.5B-Instruct",
+    "training_stage": "Non-Instruction Fine-Tuning",
+    "training_method": "QLoRA",
+    "dataset_size": 60,
+    "epochs": 2,
+    "per_device_batch_size": 2,
+    "gradient_accumulation_steps": 4,
+    "effective_batch_size": 8,
+    "learning_rate": 0.0002,
+    "lora_rank": 16,
+    "lora_alpha": 16,
+    "lora_dropout": 0,
+    "max_seq_length": 1024,
+    "quantization": "4-bit"
+}

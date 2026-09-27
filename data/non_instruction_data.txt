@@ -1,0 +1,358 @@
+NovaCart allows customers to cancel orders before they have been shipped.
+Customers can open the Orders section of their account, select the relevant
+order, and choose the Cancel Order option. Once an order has shipped,
+cancellation is no longer available and the customer may instead request
+a return after delivery.
+
+NovaCart customers may return eligible products within 30 days of delivery.
+The product should be returned in its original condition whenever possible.
+Customers can initiate a return through the Orders section by selecting
+the product and choosing the Return option.
+
+Refunds for approved returns are generally processed within 5 to 7 business
+days after the returned product has been inspected. The refund is normally
+sent to the original payment method used for the purchase.
+
+Customers who receive a damaged product should report the issue within
+48 hours of delivery. They should provide the order number and photographs
+showing the damage. NovaCart may provide a replacement or refund after
+reviewing the request.
+
+If a customer receives the wrong product, the issue should be reported
+through the Help Center. Customers should provide the order number and
+details of the incorrect item. NovaCart can arrange a replacement or
+return for eligible cases.
+
+Orders placed through NovaCart can normally be tracked through the Orders
+section of the customer's account. Once the package has shipped, tracking
+information becomes available under the Track Order option.
+
+Standard NovaCart deliveries typically take between 3 and 7 business days.
+Actual delivery time may vary depending on customer location, product
+availability, courier capacity, and local conditions.
+
+If a payment fails during checkout, customers should verify their payment
+details and available balance before attempting the transaction again.
+They may also try another supported payment method.
+
+If a customer sees a duplicate payment charge, the customer should first
+check whether both transactions have been completed. The customer may
+contact NovaCart support and provide the transaction ID and order number
+for investigation.
+
+Customers who receive a package with missing items should report the issue
+within 48 hours of delivery. The order number, product details, and package
+information should be provided to customer support.
+
+Some products sold through NovaCart include a manufacturer warranty.
+Warranty duration and coverage depend on the individual product and brand.
+Customers should check the warranty information listed on the product page.
+
+A delivery address can be changed before an order has shipped. Customers
+should update the address from their Orders section when the option is
+available. Once shipping begins, the delivery address may no longer be changed.
+
+NovaCart promotional coupons must normally be entered during checkout.
+A coupon cannot usually be applied after an order has already been placed.
+Coupon eligibility may depend on products, minimum purchase amount, and
+promotion conditions.
+
+Customers who forget their NovaCart password can select the Forgot Password
+option on the sign-in page. A password reset link or verification process
+will then be provided to the registered account.
+
+NovaCart provides customer assistance through its Help Center. Customers
+should include relevant information such as order number, transaction ID,
+product details, and a description of the issue when submitting requests.
+
+NovaCart allows customers to cancel orders before they have been shipped.
+Customers can open the Orders section of their account, select the relevant
+order, and choose the Cancel Order option. Once an order has shipped,
+cancellation is no longer available and the customer may instead request
+a return after delivery.
+
+Customers should always keep their order number available when contacting support.
+
+NovaCart customers may return eligible products within 30 days of delivery.
+The product should be returned in its original condition whenever possible.
+Customers can initiate a return through the Orders section by selecting
+the product and choosing the Return option.
+
+Providing complete information helps NovaCart resolve support requests faster.
+
+Refunds for approved returns are generally processed within 5 to 7 business
+days after the returned product has been inspected. The refund is normally
+sent to the original payment method used for the purchase.
+
+Customers should use their registered account when managing orders.
+
+Customers who receive a damaged product should report the issue within
+48 hours of delivery. They should provide the order number and photographs
+showing the damage. NovaCart may provide a replacement or refund after
+reviewing the request.
+
+Customers should always keep their order number available when contacting support.
+
+If a customer receives the wrong product, the issue should be reported
+through the Help Center. Customers should provide the order number and
+details of the incorrect item. NovaCart can arrange a replacement or
+return for eligible cases.
+
+Providing complete information helps NovaCart resolve support requests faster.
+
+Orders placed through NovaCart can normally be tracked through the Orders
+section of the customer's account. Once the package has shipped, tracking
+information becomes available under the Track Order option.
+
+Customers should use their registered account when managing orders.
+
+Standard NovaCart deliveries typically take between 3 and 7 business days.
+Actual delivery time may vary depending on customer location, product
+availability, courier capacity, and local conditions.
+
+Customers should always keep their order number available when contacting support.
+
+If a payment fails during checkout, customers should verify their payment
+details and available balance before attempting the transaction again.
+They may also try another supported payment method.
+
+Providing complete information helps NovaCart resolve support requests faster.
+
+If a customer sees a duplicate payment charge, the customer should first
+check whether both transactions have been completed. The customer may
+contact NovaCart support and provide the transaction ID and order number
+for investigation.
+
+Customers should use their registered account when managing orders.
+
+Customers who receive a package with missing items should report the issue
+within 48 hours of delivery. The order number, product details, and package
+information should be provided to customer support.
+
+Customers should always keep their order number available when contacting support.
+
+Some products sold through NovaCart include a manufacturer warranty.
+Warranty duration and coverage depend on the individual product and brand.
+Customers should check the warranty information listed on the product page.
+
+Providing complete information helps NovaCart resolve support requests faster.
+
+A delivery address can be changed before an order has shipped. Customers
+should update the address from their Orders section when the option is
+available. Once shipping begins, the delivery address may no longer be changed.
+
+Customers should use their registered account when managing orders.
+
+NovaCart promotional coupons must normally be entered during checkout.
+A coupon cannot usually be applied after an order has already been placed.
+Coupon eligibility may depend on products, minimum purchase amount, and
+promotion conditions.
+
+Customers should always keep their order number available when contacting support.
+
+Customers who forget their NovaCart password can select the Forgot Password
+option on the sign-in page. A password reset link or verification process
+will then be provided to the registered account.
+
+Providing complete information helps NovaCart resolve support requests faster.
+
+NovaCart provides customer assistance through its Help Center. Customers
+should include relevant information such as order number, transaction ID,
+product details, and a description of the issue when submitting requests.
+
+Customers should use their registered account when managing orders.
+
+NovaCart allows customers to cancel orders before they have been shipped.
+Customers can open the Orders section of their account, select the relevant
+order, and choose the Cancel Order option. Once an order has shipped,
+cancellation is no longer available and the customer may instead request
+a return after delivery.
+
+Customers should always keep their order number available when contacting support.
+
+NovaCart customers may return eligible products within 30 days of delivery.
+The product should be returned in its original condition whenever possible.
+Customers can initiate a return through the Orders section by selecting
+the product and choosing the Return option.
+
+Providing complete information helps NovaCart resolve support requests faster.
+
+Refunds for approved returns are generally processed within 5 to 7 business
+days after the returned product has been inspected. The refund is normally
+sent to the original payment method used for the purchase.
+
+Customers should use their registered account when managing orders.
+
+Customers who receive a damaged product should report the issue within
+48 hours of delivery. They should provide the order number and photographs
+showing the damage. NovaCart may provide a replacement or refund after
+reviewing the request.
+
+Customers should always keep their order number available when contacting support.
+
+If a customer receives the wrong product, the issue should be reported
+through the Help Center. Customers should provide the order number and
+details of the incorrect item. NovaCart can arrange a replacement or
+return for eligible cases.
+
+Providing complete information helps NovaCart resolve support requests faster.
+
+Orders placed through NovaCart can normally be tracked through the Orders
+section of the customer's account. Once the package has shipped, tracking
+information becomes available under the Track Order option.
+
+Customers should use their registered account when managing orders.
+
+Standard NovaCart deliveries typically take between 3 and 7 business days.
+Actual delivery time may vary depending on customer location, product
+availability, courier capacity, and local conditions.
+
+Customers should always keep their order number available when contacting support.
+
+If a payment fails during checkout, customers should verify their payment
+details and available balance before attempting the transaction again.
+They may also try another supported payment method.
+
+Providing complete information helps NovaCart resolve support requests faster.
+
+If a customer sees a duplicate payment charge, the customer should first
+check whether both transactions have been completed. The customer may
+contact NovaCart support and provide the transaction ID and order number
+for investigation.
+
+Customers should use their registered account when managing orders.
+
+Customers who receive a package with missing items should report the issue
+within 48 hours of delivery. The order number, product details, and package
+information should be provided to customer support.
+
+Customers should always keep their order number available when contacting support.
+
+Some products sold through NovaCart include a manufacturer warranty.
+Warranty duration and coverage depend on the individual product and brand.
+Customers should check the warranty information listed on the product page.
+
+Providing complete information helps NovaCart resolve support requests faster.
+
+A delivery address can be changed before an order has shipped. Customers
+should update the address from their Orders section when the option is
+available. Once shipping begins, the delivery address may no longer be changed.
+
+Customers should use their registered account when managing orders.
+
+NovaCart promotional coupons must normally be entered during checkout.
+A coupon cannot usually be applied after an order has already been placed.
+Coupon eligibility may depend on products, minimum purchase amount, and
+promotion conditions.
+
+Customers should always keep their order number available when contacting support.
+
+Customers who forget their NovaCart password can select the Forgot Password
+option on the sign-in page. A password reset link or verification process
+will then be provided to the registered account.
+
+Providing complete information helps NovaCart resolve support requests faster.
+
+NovaCart provides customer assistance through its Help Center. Customers
+should include relevant information such as order number, transaction ID,
+product details, and a description of the issue when submitting requests.
+
+Customers should use their registered account when managing orders.
+
+NovaCart allows customers to cancel orders before they have been shipped.
+Customers can open the Orders section of their account, select the relevant
+order, and choose the Cancel Order option. Once an order has shipped,
+cancellation is no longer available and the customer may instead request
+a return after delivery.
+
+Customers should always keep their order number available when contacting support.
+
+NovaCart customers may return eligible products within 30 days of delivery.
+The product should be returned in its original condition whenever possible.
+Customers can initiate a return through the Orders section by selecting
+the product and choosing the Return option.
+
+Providing complete information helps NovaCart resolve support requests faster.
+
+Refunds for approved returns are generally processed within 5 to 7 business
+days after the returned product has been inspected. The refund is normally
+sent to the original payment method used for the purchase.
+
+Customers should use their registered account when managing orders.
+
+Customers who receive a damaged product should report the issue within
+48 hours of delivery. They should provide the order number and photographs
+showing the damage. NovaCart may provide a replacement or refund after
+reviewing the request.
+
+Customers should always keep their order number available when contacting support.
+
+If a customer receives the wrong product, the issue should be reported
+through the Help Center. Customers should provide the order number and
+details of the incorrect item. NovaCart can arrange a replacement or
+return for eligible cases.
+
+Providing complete information helps NovaCart resolve support requests faster.
+
+Orders placed through NovaCart can normally be tracked through the Orders
+section of the customer's account. Once the package has shipped, tracking
+information becomes available under the Track Order option.
+
+Customers should use their registered account when managing orders.
+
+Standard NovaCart deliveries typically take between 3 and 7 business days.
+Actual delivery time may vary depending on customer location, product
+availability, courier capacity, and local conditions.
+
+Customers should always keep their order number available when contacting support.
+
+If a payment fails during checkout, customers should verify their payment
+details and available balance before attempting the transaction again.
+They may also try another supported payment method.
+
+Providing complete information helps NovaCart resolve support requests faster.
+
+If a customer sees a duplicate payment charge, the customer should first
+check whether both transactions have been completed. The customer may
+contact NovaCart support and provide the transaction ID and order number
+for investigation.
+
+Customers should use their registered account when managing orders.
+
+Customers who receive a package with missing items should report the issue
+within 48 hours of delivery. The order number, product details, and package
+information should be provided to customer support.
+
+Customers should always keep their order number available when contacting support.
+
+Some products sold through NovaCart include a manufacturer warranty.
+Warranty duration and coverage depend on the individual product and brand.
+Customers should check the warranty information listed on the product page.
+
+Providing complete information helps NovaCart resolve support requests faster.
+
+A delivery address can be changed before an order has shipped. Customers
+should update the address from their Orders section when the option is
+available. Once shipping begins, the delivery address may no longer be changed.
+
+Customers should use their registered account when managing orders.
+
+NovaCart promotional coupons must normally be entered during checkout.
+A coupon cannot usually be applied after an order has already been placed.
+Coupon eligibility may depend on products, minimum purchase amount, and
+promotion conditions.
+
+Customers should always keep their order number available when contacting support.
+
+Customers who forget their NovaCart password can select the Forgot Password
+option on the sign-in page. A password reset link or verification process
+will then be provided to the registered account.
+
+Providing complete information helps NovaCart resolve support requests faster.
+
+NovaCart provides customer assistance through its Help Center. Customers
+should include relevant information such as order number, transaction ID,
+product details, and a description of the issue when submitting requests.
+
+Customers should use their registered account when managing orders.
+
